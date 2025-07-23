@@ -19,3 +19,7 @@ This is a simple calculator program developed in C++ as part of Codveda Technolo
 - Arithmetic Operations
 
 ## Output Example
+Enter first number (a): 10
+Enter second number (b): 5
+Enter the operation (+, -, *, /): /
+10 / 5 = 2
